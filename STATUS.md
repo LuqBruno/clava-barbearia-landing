@@ -2,7 +2,7 @@
 
 **Atualizado em:** 10/09/2026  
 **Versão:** 0.1.0 — prévia navegável local  
-**Estado:** pronta para apresentação exploratória; não publicada.
+**Estado:** prévia publicada no GitHub Pages para apresentação exploratória; não é publicação comercial.
 
 ## Decisões vigentes
 
@@ -34,3 +34,9 @@ publicar avaliação; revisão da copy pela Clava; eventual integração direta 
 
 Apresentar a prévia, colher confirmação de identidade, serviços, horários e materiais, e só
 então preparar uma versão comercial/publicável.
+
+## Publicação da prévia
+
+- Repositório: https://github.com/LuqBruno/clava-barbearia-landing
+- URL online: https://luqbruno.github.io/clava-barbearia-landing/
+- Deploy por GitHub Actions, com os assets em `public/` incluídos.

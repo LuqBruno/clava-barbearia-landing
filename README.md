@@ -1,5 +1,8 @@
 # Clava Barbearia — prévia de landing page
 
+Repositório: https://github.com/LuqBruno/clava-barbearia-landing  
+Prévia online: https://luqbruno.github.io/clava-barbearia-landing/
+
 Prévia local para apresentação à possível cliente. Não publicada e sem envio de
 mensagens. A página organiza a presença pública da Clava em uma experiência própria,
 com foco no agendamento pelo WhatsApp e no acesso ao AppBarber.
