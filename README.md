@@ -39,3 +39,5 @@ Linktree oficial: https://linktr.ee/clavabarbearia
 Instagram: https://www.instagram.com/clavabarbearia/  
 AppBarber: https://sites.appbarber.com.br/clavabarbearia  
 Google Maps: https://maps.app.goo.gl/RjaSzcrhyVwqgQ6i8
+
+GitHub Pages habilitado para a prévia online.
